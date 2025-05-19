@@ -52,3 +52,4 @@
 
 - [ ] [Desenvolvimento de Exploits - 32 bits extended](https://sec4us.com.br/treinamentos/desenvolvimento-de-exploits-32-bits-extended/)
 - [ ] [Penegui - Treinamento RFID/NFC](https://penegui.com/)
+- [ ] [Smart Contract Hacking](https://smartcontractshacking.com/)
